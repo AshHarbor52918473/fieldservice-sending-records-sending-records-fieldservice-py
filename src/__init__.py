@@ -1,0 +1,1 @@
+"""Field-service publishing example."""
